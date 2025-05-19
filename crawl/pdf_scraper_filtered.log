@@ -1,0 +1,103 @@
+2025-05-19 19:09:54,189 - INFO - Bắt đầu crawl dữ liệu từ danh sách PDF
+2025-05-19 19:09:54,205 - INFO - Đang crawl PDF 1/2: https://education.vnu.edu.vn/files/Q%c4%90%20s%e1%bb%91%204488_Q%c4%90-%c4%90HQGHN.pdf
+2025-05-19 19:09:54,205 - INFO - Đang tải PDF từ https://education.vnu.edu.vn/files/Q%c4%90%20s%e1%bb%91%204488_Q%c4%90-%c4%90HQGHN.pdf
+2025-05-19 19:09:54,252 - ERROR - Lỗi trong quá trình gửi yêu cầu: HTTPSConnectionPool(host='education.vnu.edu.vn', port=443): Max retries exceeded with url: /files/Q%C4%90%20s%E1%BB%91%204488_Q%C4%90-%C4%90HQGHN.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+2025-05-19 19:09:56,254 - INFO - Đang crawl PDF 2/2: https://sow.ussh.vnu.edu.vn/uploads/sow/dao-tao/2018_01/123-hd-dhqghn-09012018-dao-tao-tien-si.pdf
+2025-05-19 19:09:56,254 - INFO - Đang tải PDF từ https://sow.ussh.vnu.edu.vn/uploads/sow/dao-tao/2018_01/123-hd-dhqghn-09012018-dao-tao-tien-si.pdf
+2025-05-19 19:09:57,558 - INFO - Tải PDF thành công (Status Code: 200)
+2025-05-19 19:09:57,558 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-19 19:09:57,558 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-19 19:09:57,558 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-19 19:09:57,558 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-19 19:09:57,558 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-19 19:09:57,558 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-19 19:09:57,558 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-19 19:09:57,558 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-19 19:09:57,558 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-19 19:09:57,558 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-19 19:09:57,571 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-19 19:09:57,571 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-19 19:09:57,571 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-19 19:09:57,571 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-19 19:09:57,572 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-19 19:09:57,572 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-19 19:09:57,572 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-19 19:09:57,572 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-19 19:09:57,573 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-19 19:09:57,573 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-19 19:09:57,573 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-19 19:09:57,573 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-19 19:09:57,573 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-19 19:09:57,574 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-19 19:09:57,574 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-19 19:09:57,574 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-19 19:09:57,574 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-19 19:09:57,574 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-19 19:09:57,575 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-19 19:09:57,575 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-19 19:09:57,576 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-19 19:09:57,576 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-19 19:09:57,576 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-19 19:09:57,576 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-19 19:09:57,577 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-19 19:09:57,577 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-19 19:09:57,579 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-19 19:09:57,579 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-19 19:09:57,579 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-19 19:09:57,580 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-19 19:09:57,580 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-19 19:09:57,581 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-19 19:09:57,598 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-19 19:09:57,598 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-19 19:09:57,598 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-19 19:09:57,598 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-19 19:09:57,598 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-19 19:09:57,598 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-19 19:09:57,598 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-19 19:09:57,598 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-19 19:09:57,598 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-19 19:09:57,598 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-19 19:09:57,598 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-19 19:09:57,598 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-19 19:09:57,598 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-19 19:09:57,598 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-19 19:09:57,598 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-19 19:09:57,598 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-19 19:09:57,598 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-19 19:09:57,598 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-19 19:09:57,598 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-19 19:09:57,598 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-19 19:09:57,598 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-19 19:09:57,598 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-19 19:09:57,598 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-19 19:09:57,598 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-19 19:09:57,598 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-19 19:09:57,598 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-19 19:09:57,598 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-19 19:09:57,598 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-19 19:09:57,598 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-19 19:09:57,598 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-19 19:09:57,598 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-19 19:09:57,598 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-19 19:09:57,598 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-19 19:09:57,598 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-19 19:09:57,598 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-19 19:09:57,598 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-19 19:09:57,598 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-19 19:09:57,598 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-19 19:09:57,598 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-19 19:09:57,598 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-19 19:09:57,598 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-19 19:09:57,598 - WARNING - CropBox missing from /Page, defaulting to MediaBox
+2025-05-19 19:09:59,605 - INFO - Hoàn tất crawl dữ liệu PDF
+2025-05-19 19:11:39,885 - INFO - Bắt đầu crawl dữ liệu từ danh sách PDF
+2025-05-19 19:11:39,901 - INFO - Đang crawl PDF 1/1: https://education.vnu.edu.vn/files/Q%c4%90%20s%e1%bb%91%204488_Q%c4%90-%c4%90HQGHN.pdf
+2025-05-19 19:11:39,901 - INFO - Đang tải PDF từ https://education.vnu.edu.vn/files/Q%c4%90%20s%e1%bb%91%204488_Q%c4%90-%c4%90HQGHN.pdf
+2025-05-19 19:11:40,962 - ERROR - Lỗi trong quá trình gửi yêu cầu: HTTPSConnectionPool(host='education.vnu.edu.vn', port=443): Max retries exceeded with url: /files/Q%C4%90%20s%E1%BB%91%204488_Q%C4%90-%C4%90HQGHN.pdf (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1006)')))
+2025-05-19 19:11:42,971 - INFO - Hoàn tất crawl dữ liệu PDF
+2025-05-19 19:14:01,293 - INFO - Bắt đầu crawl dữ liệu từ danh sách PDF
+2025-05-19 19:14:01,302 - INFO - Đang crawl PDF 1/1: https://education.vnu.edu.vn/files/Q%c4%90%20s%e1%bb%91%204488_Q%c4%90-%c4%90HQGHN.pdf
+2025-05-19 19:14:01,302 - INFO - Đang tải PDF từ https://education.vnu.edu.vn/files/Q%c4%90%20s%e1%bb%91%204488_Q%c4%90-%c4%90HQGHN.pdf
+2025-05-19 19:14:01,302 - WARNING - Đã bỏ qua kiểm tra SSL (verify=False) cho URL này. Điều này không an toàn trong môi trường sản xuất.
+2025-05-19 19:14:01,432 - INFO - Tải PDF thành công (Status Code: 200)
+2025-05-19 19:14:04,454 - INFO - Hoàn tất crawl dữ liệu PDF
